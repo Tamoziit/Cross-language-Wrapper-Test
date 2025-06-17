@@ -1,0 +1,19 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "TS-SDK Wrapper Test",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "author": "Tamojit Das",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "crosslang-wrapper-test": "^1.0.2"
+  }
+}
